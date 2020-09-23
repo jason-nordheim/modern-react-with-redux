@@ -1,0 +1,11 @@
+{
+  "name": "modern-react-with-redux",
+  "version": "1.0.0",
+  "description": "working environment for Udemy Modern React with Redux course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Nordheim",
+  "license": "ISC"
+}
